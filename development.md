@@ -11,10 +11,10 @@
 
 - Can lead multiple projects/teams
 - Respected as a leader inside the company
-- Recognised as a expert in at least one technical area
+- Recognised as an expert in at least one technical area
 - Can architect a solution satisfying client requirements gathered during a Spec Review
 - Is a Servant Leader
-- Comfortable with account management
+- Comfortable with Account Management
 - Is a firewall for other developers on a project
 - Knows how to say "No" nicely
 - Comfortable dealing with all levels of client engagement

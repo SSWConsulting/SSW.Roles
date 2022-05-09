@@ -67,8 +67,8 @@
 
 ## Junior Software Developer (from: Software Developer)
 - Super Green
-- Just out of Uni and/or still studying
-- Just hired from intern 
+    - Just out of Uni and/or still studying
+    - Hired straight from internship 
 
 - Can take on feedback and improve
 - Can follow directions

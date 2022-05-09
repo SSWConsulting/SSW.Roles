@@ -20,30 +20,59 @@
 - Comfortable dealing with all levels of client engagement
 - Maximises client ROI when delivering value
 
-## Senior Software Architect
 
-- Can lead other developers on a project
-- Can identify and reduce technical debt
-- Comfortable with running the Scrum ceremonies
-- Comfortable with mentoring other developers
-- Actively searches for new opportunities with clients
-- Can analyze a PBI's impact on a new/existing solution
+## Senior Software Engineer (from: Senior Software Architect)
+- 5+ years experience
+- Displays initiative and ownership
 
-## Software Architect
+- Can lead a project day to day (Tech Lead)
+    - Can make technical decisions 
+    - Can identify and reduce technical debt
+    - Can analyze a PBI's impact on a new/existing solution
+- Comfortable with running the Scrum ceremonies (i.e. can act as Scrum Master)
+- Comfortable with mentoring/teaching other developers 
+- Is aware of projects' schedule/budget constraints
+    - Identify potential problems in projects (and inform Account Manager)
+    - Aware of project scheduling/bookings 
+- Actively searches for new opportunities with clients 
+
+## Software Engineer (from: Software Architect)
+- 3+ years experience
+- Displays independance
 
 - Can build/gather requirements from client conversations
-- Comfortable with the Scrum process
-- Can identify new opportunities with clients
-- Can decompose complex PBIs into smaller PBIs
+    - i.e. can assist on Spec Reviews
+    - Can do initial meetings
+- Comfortable talking 1-1 with clients
+- Comfortable with all facets of the Scrum process 
+    - Provides suggestions in Scrum reviews/retros
+    - Breaks PBIs down in planning
+    - Can estimate work to be done
+    - Helps PO and Scrum Master proactively (i.e. give suggestions/recommendations)
+- Provides effective feedback internally
+- Can identify new opportunities with clients (flag them internally)
 
-## Senior Software Developer
+## Software Developer (from: Senior Software Developer)
+- 1+ years experience (in industry or otherwise)
+- Good communication skills
 
 - Confidently deliver PBIs for clients
-- Can decompose PBIs into workable tasks
-- Asks for help when blocked
+    - Interpret a PBI from the backlog
+    - Break it down into Tasks
+    - Complete the Tasks and confidently demo them
+- Comfortable with the Scrum process 
+    - Can talk about their work on Dailys
+    - Speak up in Sprint Reviews/Retros
+- Asks for help when blocked (very important)
 
-## Software Developer
+## Junior Software Developer (from: Software Developer)
+- Super Green
+- Just out of Uni and/or still studying
+- Just hired from intern 
 
 - Can take on feedback and improve
 - Can follow directions
 - Can provide feedback to peers
+- Learns quickly
+
+

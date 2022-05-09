@@ -38,11 +38,11 @@
 
 ## Software Engineer (from: Software Architect)
 - I have at least 3 years experience
-- I displays independence
+- I display independence
 
 - I can build/gather requirements from client conversations
-    - I can assist on Spec Reviews
-    - I can do initial meetings
+    - I can assist on Specification Reviews
+    - I can do initial meetings with clients
 - I am comfortable talking 1-1 with clients
 - I am comfortable with all facets of the Scrum process 
     - I provide suggestions in Scrum reviews/retros
@@ -59,10 +59,10 @@
 - I can confidently deliver PBIs for clients
     - I can interpret a PBI from the backlog
     - I can break it down into Tasks
-    - I can omplete the Tasks and confidently demo them
+    - I can complete the Tasks and confidently demonstrate them
 - I am comfortable with the Scrum process 
-    - I can talk about their work on Dailys
-    - I speak up in Sprint Reviews/Retros
+    - I can talk about my work in a Daily Scrum
+    - I speak up in Sprint Reviews and Retrospectives
 - I ask for help when I'm blocked
 
 ## Junior Software Developer (from: Software Developer)

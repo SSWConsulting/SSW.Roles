@@ -1,5 +1,5 @@
 # Development
-
+ 
 ## Chief Architect
 
 - Respected leader both inside & outside of the company
@@ -22,57 +22,57 @@
 
 
 ## Senior Software Engineer (from: Senior Software Architect)
-- 5+ years experience
-- Displays initiative and ownership
+- I have at least 5 years experience
+- I display initiative and ownership
 
-- Can lead a project day to day (Tech Lead)
-    - Can make technical decisions 
-    - Can identify and reduce technical debt
-    - Can analyze a PBI's impact on a new/existing solution
-- Comfortable with running the Scrum ceremonies (i.e. can act as Scrum Master)
-- Comfortable with mentoring/teaching other developers 
-- Is aware of projects' schedule/budget constraints
-    - Identify potential problems in projects (and inform Account Manager)
-    - Aware of project scheduling/bookings 
-- Actively searches for new opportunities with clients 
+- I can lead a project day to day (Tech Lead)
+    - I can make technical decisions 
+    - I can identify and reduce technical debt
+    - I can analyze a PBI's impact on a new/existing solution
+- I am comfortable with running the Scrum ceremonies (i.e. can act as Scrum Master)
+- I am comfortable with mentoring/teaching other developers 
+- I am aware of a projects' schedule/budget constraints
+    - I can identify potential problems in projects (and inform Account Manager)
+    - I am aware of project scheduling/bookings 
+- I actively search for new opportunities with clients 
 
 ## Software Engineer (from: Software Architect)
-- 3+ years experience
-- Displays independance
+- I have at least 3 years experience
+- I displays independence
 
-- Can build/gather requirements from client conversations
-    - i.e. can assist on Spec Reviews
-    - Can do initial meetings
-- Comfortable talking 1-1 with clients
-- Comfortable with all facets of the Scrum process 
-    - Provides suggestions in Scrum reviews/retros
-    - Breaks PBIs down in planning
-    - Can estimate work to be done
-    - Helps PO and Scrum Master proactively (i.e. give suggestions/recommendations)
-- Provides effective feedback internally
-- Can identify new opportunities with clients (flag them internally)
+- I can build/gather requirements from client conversations
+    - I can assist on Spec Reviews
+    - I can do initial meetings
+- I am comfortable talking 1-1 with clients
+- I am comfortable with all facets of the Scrum process 
+    - I provide suggestions in Scrum reviews/retros
+    - I break PBIs down in planning
+    - I can estimate work to be done
+    - I help the Product Owner and Scrum Master proactively (i.e. give suggestions/recommendations)
+- I provide effective feedback internally
+- I can identify new opportunities with clients and flag them internally
 
 ## Software Developer (from: Senior Software Developer)
-- 1+ years experience (in industry or otherwise)
-- Good communication skills
+- I have approximately a years experience in software developement (in industry or otherwise)
+- I have good communication skills
 
-- Confidently deliver PBIs for clients
-    - Interpret a PBI from the backlog
-    - Break it down into Tasks
-    - Complete the Tasks and confidently demo them
-- Comfortable with the Scrum process 
-    - Can talk about their work on Dailys
-    - Speak up in Sprint Reviews/Retros
-- Asks for help when blocked (very important)
+- I can confidently deliver PBIs for clients
+    - I can interpret a PBI from the backlog
+    - I can break it down into Tasks
+    - I can omplete the Tasks and confidently demo them
+- I am comfortable with the Scrum process 
+    - I can talk about their work on Dailys
+    - I speak up in Sprint Reviews/Retros
+- I ask for help when I'm blocked
 
 ## Junior Software Developer (from: Software Developer)
-- Super Green
-    - Just out of Uni and/or still studying
-    - Hired straight from internship 
+- I am new to software development
+    - I may be just out of University and/or still studying
+    - I may have just finished an internship 
 
-- Can take on feedback and improve
-- Can follow directions
-- Can provide feedback to peers
-- Learns quickly
+- I can take on feedback and improve
+- I can follow directions
+- I can provide feedback to my peers
+- I learn quickly
 
 

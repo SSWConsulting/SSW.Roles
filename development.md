@@ -7,7 +7,20 @@
 - Works for the company to build and improve it
 - Steering the technical direction of the business
 
-## Solution Architect options
+## Solution Architect Replacement 
+### common traits across all options
+
+- Displays leadership
+
+- Teaches other staff
+- Is a Servant Leader
+    - Provides the support other devs need to do their work
+    - Remove impediments to projects' success
+- Is a firewall for other developers on a project
+- Knows how to say "No" nicely
+- Comfortable dealing with all levels of client engagement (Sales, PO, Executive Management...)
+- Maximises client ROI when delivering value
+
 ### Software Project Lead
 - Can lead multiple projects/teams
 - Comfortable with account management
@@ -33,19 +46,6 @@
 
 ------------------------------------------
 
-## Principal Software Engineer (from: Solution Architect)
-### common traits across all options   
-
-- Displays leadership
-
-- Teaches other staff
-- Is a Servant Leader
-    - Provides the support other devs need to do their work
-    - Remove impediments to projects' success
-- Is a firewall for other developers on a project
-- Knows how to say "No" nicely
-- Comfortable dealing with all levels of client engagement (Sales, PO, Executive Management...)
-- Maximises client ROI when delivering value
 
 
 # Rest

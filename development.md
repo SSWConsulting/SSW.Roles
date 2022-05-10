@@ -22,6 +22,8 @@
 - Maximises client ROI when delivering value
 
 ### Software Project Lead
+
+- Have "people skills" (i.e. be courteous and professional)
 - Can lead multiple projects/teams
 - Comfortable with account management
 - Comfortable leading Specification Reviews
@@ -29,11 +31,11 @@
 
 ### Principal Software Engineer
 
-- Recognised as a expert in at least one technical area
+- Recognised as an expert in at least one technical area
 - Comfortable providing advice in their specialist areas
 - Retains expertise and thought leadership through a mix of
   - attaining certification
-  - preenting at User Groups, conferences and other events
+  - presenting at User Groups, conferences and other events
   - community engagement
   - being an MVP
 
@@ -67,7 +69,7 @@
 
 ## Software Engineer (from: Software Architect)
 - I have at least 3 years experience
-- I display independence
+- I display autonomy
 
 - I can build/gather requirements from client conversations
     - I can assist on Specification Reviews
@@ -82,7 +84,7 @@
 - I can identify new opportunities with clients and flag them internally
 
 ## Software Developer (from: Senior Software Developer)
-- I have approximately a years experience in software development (in industry or otherwise)
+- I have approximately 1 year of experience in software development (in industry or otherwise)
 - I have good communication skills
 
 - I can confidently deliver PBIs for clients

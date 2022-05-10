@@ -1,25 +1,54 @@
 # Development
  
 ## Chief Architect
-
+***** THIS ONE IS ALSO PROBLEMATIC
 - Respected leader both inside & outside of the company
 - Builds communities and grows culture within the business
 - Works for the company to build and improve it
 - Steering the technical direction of the business
 
-## Solution Architect
-
+## Solution Architect options
+### Software Project Lead
 - Can lead multiple projects/teams
-- Respected as a leader inside the company
-- Recognised as a expert in at least one technical area
-- Can architect a solution satisfying client requirements gathered during a Spec Review
-- Is a Servant Leader
 - Comfortable with account management
+- Comfortable leading Specification Reviews
+- Comfortable coordinating teams
+
+### Principal Software Engineer
+
+- Recognised as a expert in at least one technical area
+- Comfortable providing advice in their specialist areas
+- Retains expertise and thought leadership through a mix of
+  - attaining certification
+  - preenting at User Groups, conferences and other events
+  - community engagement
+  - being an MVP
+
+### Solution Architect
+
+- Can architect a solution satisfying client requirements gathered during a Spec Review
+- Manages non-functional requirements with customers
+- Designs solutions with flexibility for the future
+- Can provide strong technical overview for several projects
+
+------------------------------------------
+
+## Principal Software Engineer (from: Solution Architect)
+### common traits across all options   
+
+- Displays leadership
+
+- Teaches other staff
+- Is a Servant Leader
+    - Provides the support other devs need to do their work
+    - Remove impediments to projects' success
 - Is a firewall for other developers on a project
 - Knows how to say "No" nicely
-- Comfortable dealing with all levels of client engagement
+- Comfortable dealing with all levels of client engagement (Sales, PO, Executive Management...)
 - Maximises client ROI when delivering value
 
+
+# Rest
 
 ## Senior Software Engineer (from: Senior Software Architect)
 - I have at least 5 years experience
@@ -53,7 +82,7 @@
 - I can identify new opportunities with clients and flag them internally
 
 ## Software Developer (from: Senior Software Developer)
-- I have approximately a years experience in software developement (in industry or otherwise)
+- I have approximately a years experience in software development (in industry or otherwise)
 - I have good communication skills
 
 - I can confidently deliver PBIs for clients
@@ -74,5 +103,3 @@
 - I can follow directions
 - I can provide feedback to my peers
 - I learn quickly
-
-

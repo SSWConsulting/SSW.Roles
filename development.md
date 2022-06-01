@@ -21,7 +21,7 @@
 - Comfortable dealing with all levels of client engagement (Sales, PO, Executive Management...)
 - Maximises client ROI when delivering value
 
-### Software Project Lead
+### Principal Tech Lead
 
 - Have "people skills" (i.e. be courteous and professional)
 - Can lead multiple projects/teams

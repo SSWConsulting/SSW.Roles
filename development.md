@@ -1,54 +1,47 @@
 # Development
  
 ## Chief Architect
-***** THIS ONE IS ALSO PROBLEMATIC
+
 - Respected leader both inside & outside of the company
 - Builds communities and grows culture within the business
 - Works for the company to build and improve it
 - Steering the technical direction of the business
 
 ## Solution Architect Replacement 
-### common traits across all options
 
-- Displays leadership
+| Trait | Principal Tech Lead  | Principal Software Engineer | Solution Architect |
+| ------------- | ------------- | ------------- | ------------- |
+| Displays leadership  | ✅ | ✅ | ✅ |
+| Upskill team members  | ✅ | ✅ | ✅ |
+| Is a Servand Leader*  | ✅ | ✅ | ✅ |
+| Firewall for developers on a project  | ✅ | ✅ | ✅ |
+| Know how to say "No" nicely  | ✅ | ✅ | ✅ |
+| Comfortable with all levels of client engagement (Sales, PO, Executive Management...)  | ✅ | ✅ | ✅ |
+| Maximise client ROI | ✅ | ✅ | ✅ |
+| Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
+| Have "people skills" (i.e. be courteous and professional) | ✅ |  |  |
+| Lead multiple projects/teams | ✅ |  |  |
+| Comfortable with account management | ✅ |  |  |
+| Comfortable leading Specification Reviews | ✅ |  |  |
+| Comfortable coordinating teams | ✅ |  |  |
+| Recognised as an expert in at least one technical area |  | ✅ |  |
+| Comfortable providing advice in their specialist areas |  | ✅ |  |
+| Architect solutions satisfying client requirements gathered during a Spec Review |  |  | ✅ |
+| Manages non-functional requirements with customers  |  |  | ✅ |
+| Designs solutions with flexibility for the future |  |  | ✅ |
+| Provide strong technical overview for several projects |  |  | ✅ |
 
-- Teaches other staff
 - Is a Servant Leader
     - Provides the support other devs need to do their work
     - Remove impediments to projects' success
-- Is a firewall for other developers on a project
-- Knows how to say "No" nicely
-- Comfortable dealing with all levels of client engagement (Sales, PO, Executive Management...)
-- Maximises client ROI when delivering value
 
-### Principal Tech Lead
-
-- Have "people skills" (i.e. be courteous and professional)
-- Can lead multiple projects/teams
-- Comfortable with account management
-- Comfortable leading Specification Reviews
-- Comfortable coordinating teams
-
-### Principal Software Engineer
-
-- Recognised as an expert in at least one technical area
-- Comfortable providing advice in their specialist areas
 - Retains expertise and thought leadership through a mix of
   - attaining certification
   - presenting at User Groups, conferences and other events
   - community engagement
   - being an MVP
 
-### Solution Architect
-
-- Can architect a solution satisfying client requirements gathered during a Spec Review
-- Manages non-functional requirements with customers
-- Designs solutions with flexibility for the future
-- Can provide strong technical overview for several projects
-
 ------------------------------------------
-
-
 
 # Rest
 
@@ -99,7 +92,7 @@
 ## Junior Software Developer (from: Software Developer)
 - I am new to software development
     - I may be just out of University and/or still studying
-    - I may have just finished an internship 
+    - I may have just finished an internship
 
 - I can take on feedback and improve
 - I can follow directions

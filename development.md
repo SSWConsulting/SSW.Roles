@@ -7,7 +7,7 @@
 - Works for the company to build and improve it
 - Steering the technical direction of the business
 
-## Solution Architect Replacement 
+## Principal level
 
 | Trait | Principal Tech Lead  | Principal Software Engineer | Solution Architect |
 | ------------- | ------------- | ------------- | ------------- |
@@ -40,10 +40,6 @@
   - presenting at User Groups, conferences and other events
   - community engagement
   - being an MVP
-
-------------------------------------------
-
-# Rest
 
 ## Senior Software Engineer (from: Senior Software Architect)
 - I have at least 5 years experience

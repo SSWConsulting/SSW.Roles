@@ -48,6 +48,7 @@
 ## Senior Software Engineer (from: Senior Software Architect)
 - I have at least 5 years experience
 - I display initiative and ownership
+
 - I can lead a project day to day (Tech Lead)
     - I can make technical decisions 
     - I can identify and reduce technical debt
@@ -62,6 +63,7 @@
 ## Software Engineer (from: Software Architect)
 - I have at least 3 years experience
 - I display autonomy
+
 - I can build/gather requirements from client conversations
     - I can assist on Specification Reviews
     - I can do initial meetings with clients
@@ -77,6 +79,7 @@
 ## Software Developer (from: Senior Software Developer)
 - I have approximately 1 year of experience in software development (in industry or otherwise)
 - I have good communication skills
+
 - I can confidently deliver PBIs for clients
     - I can interpret a PBI from the backlog
     - I can break it down into Tasks
@@ -89,7 +92,8 @@
 ## Junior Software Developer (from: Software Developer)
 - I am new to software development
     - I may be just out of University and/or still studying
-    - I may have just finished an internship 
+    - I may have just finished an internship
+
 - I can take on feedback and improve
 - I can follow directions
 - I can provide feedback to my peers

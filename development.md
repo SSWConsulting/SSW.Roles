@@ -1,61 +1,53 @@
 # Development
  
 ## Chief Architect
-***** THIS ONE IS ALSO PROBLEMATIC
+
 - Respected leader both inside & outside of the company
 - Builds communities and grows culture within the business
 - Works for the company to build and improve it
 - Steering the technical direction of the business
 
 ## Solution Architect Replacement 
-### common traits across all options
 
-- Displays leadership
+| Trait | Principal Tech Lead  | Principal Software Engineer | Solution Architect |
+| ------------- | ------------- | ------------- | ------------- |
+| Displays leadership  | ✅ | ✅ | ✅ |
+| Upskill team members  | ✅ | ✅ | ✅ |
+| Is a Servand Leader*  | ✅ | ✅ | ✅ |
+| Firewall for developers on a project  | ✅ | ✅ | ✅ |
+| Know how to say "No" nicely  | ✅ | ✅ | ✅ |
+| Comfortable with all levels of client engagement (Sales, PO, Executive Management...)  | ✅ | ✅ | ✅ |
+| Maximise client ROI | ✅ | ✅ | ✅ |
+| Have "people skills" (i.e. be courteous and professional) | ✅ |  |  |
+| Lead multiple projects/teams | ✅ |  |  |
+| Comfortable with account management | ✅ |  |  |
+| Comfortable leading Specification Reviews | ✅ |  |  |
+| Comfortable coordinating teams | ✅ |  |  |
+| Recognised as an expert in at least one technical area |  | ✅ |  |
+| Comfortable providing advice in their specialist areas |  | ✅ |  |
+| Architect solutions satisfying client requirements gathered during a Spec Review |  |  | ✅ |
+| Manages non-functional requirements with customers  |  |  | ✅ |
+| Designs solutions with flexibility for the future |  |  | ✅ |
+| Provide strong technical overview for several projects |  |  | ✅ |
+| Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
 
-- Teaches other staff
 - Is a Servant Leader
     - Provides the support other devs need to do their work
     - Remove impediments to projects' success
-- Is a firewall for other developers on a project
-- Knows how to say "No" nicely
-- Comfortable dealing with all levels of client engagement (Sales, PO, Executive Management...)
-- Maximises client ROI when delivering value
 
-### Principal Tech Lead
-
-- Have "people skills" (i.e. be courteous and professional)
-- Can lead multiple projects/teams
-- Comfortable with account management
-- Comfortable leading Specification Reviews
-- Comfortable coordinating teams
-
-### Principal Software Engineer
-
-- Recognised as an expert in at least one technical area
-- Comfortable providing advice in their specialist areas
 - Retains expertise and thought leadership through a mix of
   - attaining certification
   - presenting at User Groups, conferences and other events
   - community engagement
   - being an MVP
 
-### Solution Architect
-
-- Can architect a solution satisfying client requirements gathered during a Spec Review
-- Manages non-functional requirements with customers
-- Designs solutions with flexibility for the future
-- Can provide strong technical overview for several projects
-
 ------------------------------------------
-
-
 
 # Rest
 
 ## Senior Software Engineer (from: Senior Software Architect)
 - I have at least 5 years experience
 - I display initiative and ownership
-
 - I can lead a project day to day (Tech Lead)
     - I can make technical decisions 
     - I can identify and reduce technical debt
@@ -70,7 +62,6 @@
 ## Software Engineer (from: Software Architect)
 - I have at least 3 years experience
 - I display autonomy
-
 - I can build/gather requirements from client conversations
     - I can assist on Specification Reviews
     - I can do initial meetings with clients
@@ -86,7 +77,6 @@
 ## Software Developer (from: Senior Software Developer)
 - I have approximately 1 year of experience in software development (in industry or otherwise)
 - I have good communication skills
-
 - I can confidently deliver PBIs for clients
     - I can interpret a PBI from the backlog
     - I can break it down into Tasks
@@ -100,7 +90,6 @@
 - I am new to software development
     - I may be just out of University and/or still studying
     - I may have just finished an internship 
-
 - I can take on feedback and improve
 - I can follow directions
 - I can provide feedback to my peers

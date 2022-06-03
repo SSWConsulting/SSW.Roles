@@ -18,6 +18,7 @@
 | Know how to say "No" nicely  | ✅ | ✅ | ✅ |
 | Comfortable with all levels of client engagement (Sales, PO, Executive Management...)  | ✅ | ✅ | ✅ |
 | Maximise client ROI | ✅ | ✅ | ✅ |
+| Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
 | Have "people skills" (i.e. be courteous and professional) | ✅ |  |  |
 | Lead multiple projects/teams | ✅ |  |  |
 | Comfortable with account management | ✅ |  |  |
@@ -29,7 +30,6 @@
 | Manages non-functional requirements with customers  |  |  | ✅ |
 | Designs solutions with flexibility for the future |  |  | ✅ |
 | Provide strong technical overview for several projects |  |  | ✅ |
-| Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
 
 - Is a Servant Leader
     - Provides the support other devs need to do their work

@@ -72,7 +72,7 @@
 - I provide effective feedback internally
 - I can identify new opportunities with clients and flag them internally
 
-## Software Developer (from: Senior Software Developer)
+## Software Developer
 - I have approximately 1 year of experience in software development (in industry or otherwise)
 - I have good communication skills
 
@@ -85,7 +85,7 @@
     - I speak up in Sprint Reviews and Retrospectives
 - I ask for help when I'm blocked
 
-## Associate Software Developer (from: Software Developer)
+## Associate Software Developer
 - I am new to software development
     - I may be just out of University and/or still studying
     - I may have just finished an internship

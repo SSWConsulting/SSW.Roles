@@ -85,7 +85,7 @@
     - I speak up in Sprint Reviews and Retrospectives
 - I ask for help when I'm blocked
 
-## Junior Software Developer (from: Software Developer)
+## Associate Software Developer (from: Software Developer)
 - I am new to software development
     - I may be just out of University and/or still studying
     - I may have just finished an internship

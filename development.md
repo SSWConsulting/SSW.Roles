@@ -21,7 +21,7 @@
 | Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
 | Have "people skills" (i.e. be courteous and professional) | ✅ |  |  |
 | Lead multiple projects/teams | ✅ |  |  |
-| Comfortable with account management | ✅ |  |  |
+| Comfortable with Account Management | ✅ |  |  |
 | Comfortable leading Specification Reviews | ✅ |  |  |
 | Comfortable coordinating teams | ✅ |  |  |
 | Recognised as an expert in at least one technical area |  | ✅ |  |

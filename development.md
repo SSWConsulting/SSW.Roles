@@ -41,7 +41,7 @@
   - community engagement
   - being an MVP
 
-## Senior Software Engineer (from: Senior Software Architect)
+## Senior Software Engineer
 - I have at least 5 years experience
 - I display initiative and ownership
 
@@ -56,7 +56,7 @@
     - I am aware of project scheduling/bookings 
 - I actively search for new opportunities with clients 
 
-## Software Engineer (from: Software Architect)
+## Software Engineer
 - I have at least 3 years experience
 - I display autonomy
 

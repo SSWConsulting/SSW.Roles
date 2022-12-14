@@ -1,7 +1,7 @@
 # Design
  
 ## Senior UI/UX Designer
-- I have at least 5 years' experience
+- I have 3-5 years' experience
 - I display initiative and ownership
 
 - I can lead a project day to day (Design Lead)
@@ -16,7 +16,7 @@
 
 
 ##  UI/UX Designer
-- I have at least 3 years' experience
+- I have 1-3 years' experience
 - I have excellent visual design skills with an eye for detail
 
 - I can build/gather requirements from client conversations
@@ -36,11 +36,11 @@
 
 
 ## Design Work Experience
-- I have approximately 1 year's of experience in graphic or user interface design (in industry or otherwise)
-- or I may be just out of University and/or still studying for a design related degree
+- I may be just out of University and/or still studying for a design related degree
+- I have a demonstrated interest in the field of graphic desigan, interface design or digital media
 - I have good communication skills
 
-- I can confidently deliver PBIs for clients
+- I can confidently deliver PBIs
     - I can interpret a PBI from the backlog
     - I can break it down into Tasks
     - I can complete the Tasks and confidently demonstrate them

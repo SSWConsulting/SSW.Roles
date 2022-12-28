@@ -1,7 +1,7 @@
 # Design
  
 ## Senior UI/UX Designer
-- I have 3-5 years' experience
+- I have at least 3 years' experience
 - I display initiative and ownership
 
 - I can lead a project day to day (Design Lead)
@@ -21,7 +21,7 @@
 
 - I can build/gather requirements from client conversations
     - I can assist on Specification Reviews
-    - I can do initial meetings with clients
+    - I can do Initial Meetings with clients
     - I can create the design of user interface specifications, by applying client research and design guidelines
 - I can design user interfaces that encompass an end-to-end experience across a variety of platforms
 - I can represent work to clients and other team members, clearly and succinctly articulating the goals and design concepts
@@ -32,21 +32,21 @@
     - I break PBIs down in planning
     - I can estimate work to be done
     - I help the Product Owner and Scrum Master proactively (i.e. give suggestions/recommendations)
+- I can make clear and succinct done videos
 - I provide effective feedback internally
 
-
-## Design Work Experience
+## Associate Designer
 - I may be just out of University and/or still studying for a design related degree
 - I have a demonstrated interest in the field of graphic desigan, interface design or digital media
 - I have good communication skills
 
 - I can confidently deliver PBIs
     - I can interpret a PBI from the backlog
-    - I can break it down into Tasks
     - I can complete the Tasks and confidently demonstrate them
 - I am comfortable with the Scrum process 
     - I can talk about my work in a Daily Scrum
     - I speak up in Sprint Reviews and Retrospectives
 - I ask for help when I'm blocked
 - I can take on feedback and improve
+- I can make done videos
 - I possess knowledge and skill in design software (e.g. Adobe Creative Suite, Sketch and Figma)

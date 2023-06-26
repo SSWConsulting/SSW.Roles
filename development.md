@@ -32,7 +32,11 @@
 | Provide strong technical overview for several projects |  |  | ✅ |
 
 - Is a Servant Leader
+<<<<<<< HEAD
   - Provides the support other developers need to do their work
+=======
+  - Provides the support other devs need to do their work
+>>>>>>> dcc8622a451191485a8293d00e9634461401d8b7
   - Remove impediments to projects' success
 
 - Retains expertise and thought leadership through a mix of
@@ -43,6 +47,7 @@
 
 ## 💡 Developer vs Engineer
 
+<<<<<<< HEAD
 Software developers build specific computer systems and application software.
 
 Software engineers work on a larger scale to design, develop, and test entire computer systems and application software for a company or organization—software development is a subset of software engineering.
@@ -97,18 +102,70 @@ Software engineers work on a larger scale to design, develop, and test entire co
 
 ## Software Engineer I
 
+=======
+Software developers design specific computer systems and application software. Software engineers work on a larger scale to design, develop, and test entire computer systems and application software for a company or organization—software development is a subset of software engineering.
+
+> https://www.guru99.com/difference-software-engineer-developer.html
+
+## Senior Software Engineer (from: Senior Software Architect)
+
+- I have at least 5 years experience
+  - 💡 Good experience that I can demonstrate from project showcases, published articles/blog posts, sample projects or other visible best practices
+- I display initiative and ownership
+  - 💡 Initiative - Scope out and develop solutions to meet project requirements and convey the value as well as priority to the Product Owner
+  - 💡 Ownership - Demonstrate the ability to plan, track and deliver tasks -- either by your own efforts or by delegating to team members
+- I can lead a project day to day (Tech Lead)
+  - I can make technical decisions
+    - 💡 TODO: need good example, and can raise with the Solution Architects when the options are difficult to separate
+  - I can identify and reduce technical debt
+    - 💡 Spot or even develop shortcuts when necessary, raise PBIs for tech debt as per our SSW rules (https://ssw.com.au/rules/technical-debt/) and be mindful to prioritize tech debt for future sprints
+  - I can analyze a PBI's impact on a new/existing solution
+    - 💡 ???????????????
+- I am comfortable with running the Scrum ceremonies (i.e. can act as Scrum Master)
+- I am comfortable with mentoring or training other developers
+- I am aware of a projects' schedule/budget constraints
+  - I can identify potential problems in projects (and inform Account Manager)
+  - I am aware of project scheduling and bookings
+    - 💡 I can identify resourcing problems and inform the Account Manager and Product Owner
+- I actively search for new opportunities with clients
+  - 💡 Familiar with: https://ssw.com.au/rules/upsell/
+
+## Software Engineer (from: Software Architect)
+
+- I have at least 3 years experience
+- I display autonomy
+  - 💡 ????
+- I can build/gather requirements from client conversations
+  - I can assist on Specification Reviews
+    - 💡 Act as a Scribe
+    - 💡 Research valuable topics in the background
+    - 💡 Gauge development efforts
+    - 💡 Help build project Spec Review Doc / Deck
+  - I can do initial meetings with clients
+- I am comfortable talking 1-1 with clients
+  - 💡 Similar to Spec Reviews
+  - 💡 Scribe the meeting to document current understanding - helps with gauging the Spec Review complexity and time requirements
+>>>>>>> dcc8622a451191485a8293d00e9634461401d8b7
 - I am comfortable with all facets of the Scrum process
   - I provide suggestions in Scrum reviews/retros
   - I break PBIs down in planning
   - I can estimate work to be done
   - I help the Product Owner and Scrum Master proactively (i.e. give suggestions/recommendations)
 - I provide effective feedback internally
+<<<<<<< HEAD
   - Communicate directly with other developers to share good ideas or better practices
   - Send recommendations for updating SSW Rules
   - Propose new rule content for SSW Rules
   - Always leave something in a better state if you think it can be done better
 - I can identify new opportunities with clients and flag them internally
   - Familiar with [Upselling](https://ssw.com.au/rules/upsell/)
+=======
+  - 💡 Communicate directly with other developers to share good ideas or better practices
+  - 💡 ??? Send recommendations for updating SSW Rules
+  - 💡 ??? Propose new rule content for SSW Rules
+- I can identify new opportunities with clients and flag them internally
+  - Familiar with: https://ssw.com.au/rules/upsell/
+>>>>>>> dcc8622a451191485a8293d00e9634461401d8b7
 
 ## Software Developer
 

@@ -13,18 +13,18 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Displays leadership  | ✅ | ✅ | ✅ |
 | Upskill team members  | ✅ | ✅ | ✅ |
-| Is a Servand Leader*  | ✅ | ✅ | ✅ |
+| Is a Servant Leader*  | ✅ | ✅ | ✅ |
 | Firewall for developers on a project  | ✅ | ✅ | ✅ |
 | Know how to say "No" nicely  | ✅ | ✅ | ✅ |
 | Comfortable with all levels of client engagement (Sales, PO, Executive Management...)  | ✅ | ✅ | ✅ |
-| Maximise client ROI | ✅ | ✅ | ✅ |
+| Maximize client ROI | ✅ | ✅ | ✅ |
 | Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
 | Have "people skills" (i.e. be courteous and professional) | ✅ |  |  |
 | Lead multiple projects/teams | ✅ |  |  |
 | Comfortable with Account Management | ✅ |  |  |
 | Comfortable leading Specification Reviews | ✅ |  |  |
 | Comfortable coordinating teams | ✅ |  |  |
-| Recognised as an expert in at least one technical area |  | ✅ |  |
+| Recognized as an expert in at least one technical area |  | ✅ |  |
 | Comfortable providing advice in their specialist areas |  | ✅ |  |
 | Architect solutions satisfying client requirements gathered during a Spec Review |  |  | ✅ |
 | Manages non-functional requirements with customers  |  |  | ✅ |
@@ -43,9 +43,11 @@
 
 ## 💡 Developer vs Engineer
 
-Software developers build specific computer systems and application software.
+Software Developers build specific computer systems and application software.
 
-Software engineers work on a larger scale to design, develop, and test entire computer systems and application software for a company or organization—software development is a subset of software engineering.
+Software Development is a subset of Software Engineering.
+
+Software Engineers work on a larger scale to design, develop, and test entire computer systems and application software for a company or organization
 
 ## Senior Software Engineer II
 
@@ -76,7 +78,7 @@ Software engineers work on a larger scale to design, develop, and test entire co
   - I am aware of project scheduling and bookings
     - I can identify resourcing problems and inform the Account Manager and Product Owner
 - I actively search for new opportunities with clients
-  - Familiar with [Upselling](https://ssw.com.au/rules/upsell/)
+  - Familiar with how to [Upsell](https://ssw.com.au/rules/upsell/)
 
 ## Software Engineer II
 
@@ -108,7 +110,7 @@ Software engineers work on a larger scale to design, develop, and test entire co
   - Propose new rule content for SSW Rules
   - Always leave something in a better state if you think it can be done better
 - I can identify new opportunities with clients and flag them internally
-  - Familiar with [Upselling](https://ssw.com.au/rules/upsell/)
+  - Familiar with how to [Upsell](https://ssw.com.au/rules/upsell/)
 
 ## Software Developer
 

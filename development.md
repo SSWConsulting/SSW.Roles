@@ -47,7 +47,7 @@ Software Developers build specific computer systems and application software.
 
 Software Development is a subset of Software Engineering.
 
-Software Engineers work on a larger scale to design, develop, and test entire computer systems and application software for a company or organization
+Software Engineers work on a larger scale to design, develop, and test entire computer systems and application software for a company or organization.
 
 ## Senior Software Engineer II
 

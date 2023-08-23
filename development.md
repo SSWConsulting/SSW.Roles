@@ -155,7 +155,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 | ------------- | ------------- | ------------- | ------------- |
 | Displays leadership  | ✅ | ✅ | ✅ |
 | Upskill team members  | ✅ | ✅ | ✅ |
-| Is a Servand Leader*  | ✅ | ✅ | ✅ |
+| Is a Servant Leader*  | ✅ | ✅ | ✅ |
 | Firewall for developers on a project  | ✅ | ✅ | ✅ |
 | Know how to say "No" nicely  | ✅ | ✅ | ✅ |
 | Comfortable with all levels of client engagement (Sales, PO, Executive Management...)  | ✅ | ✅ | ✅ |
@@ -182,7 +182,6 @@ I am confident working with stakeholders and can deliver value. I always strive 
   - presenting at User Groups, conferences and other events
   - community engagement
   - being an MVP
-
 
 ## Chief Architect
 

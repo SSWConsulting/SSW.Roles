@@ -101,7 +101,7 @@
 - I can [define the scope of a PBI](https://www.ssw.com.au/rules/defining-pbis/) and provide Acceptance Criteria
 - I can [estimate PBIs](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) to be done with confidence while being mindful to not [under estimate](https://www.ssw.com.au/rules/professional-integrity-tools/#add-buffers-aka-healthy-pessimism) and fail the expectations of the team or Product Owner
 - I help the Product Owner and Scrum Master proactively (i.e. give suggestions/recommendations) outside of the regular ceremonies
-[Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and flag them internally
+- [Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and flag them internally
 
 ### Technical Skills
 - I am able to learn and use new technologies effectively

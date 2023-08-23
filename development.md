@@ -156,8 +156,8 @@ I am new to Software Development and I am building my skills through internal tr
 
 ### Experience
 - I am new to Software Development
-- I may be just out of university and/or still studying a relevant Computer Science or equivalent degree
-- I may have just finished an internship
+  - I may be just out of university and/or still studying a relevant Computer Science or equivalent degree
+  - I may have just finished an internship
 - I learn quickly
 
 ### Communication

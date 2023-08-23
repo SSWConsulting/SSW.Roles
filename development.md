@@ -75,7 +75,7 @@
 - I can act as a Scribe for Specification Reviews and Initial Meetings
 - I can assist on Specification Reviews to research valuable topics in the background
 - I know how to ensure PBIs are clear before they are added to a Sprint
-- Write PBIs that meet the [Definition of Ready](https://www.ssw.com.au/rules/have-a-definition-of-ready/) and [Acceptance Criteria](https://www.ssw.com.au/rules/acceptance-criteria/)
+  - Write PBIs that meet the [Definition of Ready](https://www.ssw.com.au/rules/have-a-definition-of-ready/) and [Acceptance Criteria](https://www.ssw.com.au/rules/acceptance-criteria/)
 
 ### Technical Skills
 - I am able to confidently identify when I need outside technical advice instead of when I can learn it myself

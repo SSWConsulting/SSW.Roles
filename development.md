@@ -135,7 +135,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 - I can complete the tasks and confidently demonstrate them
 
 ### Technical Skills
-I am confident in:
+- I am confident in:
   - Software Development
   - Databases
   - Object Oriented Programming

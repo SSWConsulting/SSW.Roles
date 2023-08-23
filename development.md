@@ -2,7 +2,7 @@
 These roles aim to provide a guideline for the expectations of different positions in the company.
 
 As a developer, the role you fit into is based on several factors including:
-- The characteristics of the role that you meet and are building towards.
+- The characteristics of the role that you meet and are building towards
 - The consistency and rate of improvement over time
 - Annual Goals
 - Contribution to the business
@@ -18,9 +18,9 @@ I am new to Software Development and I am building my skills through internal tr
 - I learn quickly
 
 ### Communication
-- I am open to receiving feedback and incorporating it into my work.
-- I am building confidence in providing constructive feedback to peers.
-- I can follow directions.
+- I am open to receiving feedback and incorporating it into my work
+- I am building confidence in providing constructive feedback to peers
+- I can follow directions
 
 ### Project leadership & Stakeholder management
 - I am learning how to work as a member of a Scrum team
@@ -37,7 +37,7 @@ I am new to Software Development and I am building my skills through internal tr
 - I am comfortable having my code reviewed by other developers
 
 ### Internal Contributions
-- Engage with the wider Team e.g., at lunch, playing games etc.
+- Engage with the wider Team e.g. at lunch, playing games etc
 
 ## Software Developer
 I am confident working with stakeholders and can deliver value. I always strive to learn and improve in all aspects of my role.
@@ -46,7 +46,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 - I have graduated from university with a relevant Computer Science or equivalent degree
 
 ### Communication
-- I can communicate when I notice requirements are unclear to me while developing (e.g. in PBIs)
+- I can communicate when I notice requirements are unclear to me while developing e.g. in PBIs
 - Try and solve problems before [asking for help](https://ssw.com.au/rules/ask-for-help/) right away, but also make sure not to remain blocked for a significant amount of time
 - I am comfortable talking 1-1 with clients
 
@@ -92,7 +92,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 - I am comfortable with all facets of the [Scrum](https://www.ssw.com.au/rules/8-steps-to-scrum/) process
   - I can [define the scope of a PBI](https://www.ssw.com.au/rules/defining-pbis/) and provide Acceptance Criteria
   - I can [estimate PBIs](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) to be done with confidence while being mindful to not [under estimate](https://www.ssw.com.au/rules/professional-integrity-tools/#add-buffers-aka-healthy-pessimism) and fail the expectations of the team or Product Owner
-- I help the Product Owner and Scrum Master proactively (i.e. give suggestions/recommendations) outside of the regular ceremonies
+- I help the Product Owner and Scrum Master proactively i.e. give suggestions/recommendations) outside of the regular ceremonies
 - [Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and flag them internally
 
 ### Technical Skills

@@ -134,7 +134,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 - I create new rules
 - I take initiative to action important internal PBIs
 
-## Senior Software Engineer (from: Senior Software Architect)
+## Senior Software Engineer
 - I have at least 5 years experience
 - I display initiative and ownership
 

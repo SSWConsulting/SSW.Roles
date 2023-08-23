@@ -98,8 +98,8 @@
 
 ### Project leadership & Stakeholder management
 - I am comfortable with all facets of the [Scrum](https://www.ssw.com.au/rules/8-steps-to-scrum/) process
-- I can [define the scope of a PBI](https://www.ssw.com.au/rules/defining-pbis/) and provide Acceptance Criteria
-- I can [estimate PBIs](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) to be done with confidence while being mindful to not [under estimate](https://www.ssw.com.au/rules/professional-integrity-tools/#add-buffers-aka-healthy-pessimism) and fail the expectations of the team or Product Owner
+  - I can [define the scope of a PBI](https://www.ssw.com.au/rules/defining-pbis/) and provide Acceptance Criteria
+  - I can [estimate PBIs](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) to be done with confidence while being mindful to not [under estimate](https://www.ssw.com.au/rules/professional-integrity-tools/#add-buffers-aka-healthy-pessimism) and fail the expectations of the team or Product Owner
 - I help the Product Owner and Scrum Master proactively (i.e. give suggestions/recommendations) outside of the regular ceremonies
 - [Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and flag them internally
 
@@ -126,13 +126,13 @@ I am confident working with stakeholders and can deliver value. I always strive 
 
 ### Project leadership & Stakeholder management
 - I am comfortable with the [Scrum](https://www.ssw.com.au/rules/8-steps-to-scrum/) process
-- I can talk about my work in a Daily Scrum
-- I provide suggestions in Sprint Reviews and Retrospectives
+  - I can talk about my work in a Daily Scrum
+  - I provide suggestions in Sprint Reviews and Retrospectives
 - I can confidently deliver PBIs for clients
-- I can interpret a PBI from the backlog
-- I can break the PBI down into smaller workable tasks
-- I can [estimate the effort](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) required to complete the tasks
-- I can complete the tasks and confidently demonstrate them
+  - I can interpret a PBI from the backlog
+  - I can break the PBI down into smaller workable tasks
+  - I can [estimate the effort](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) required to complete the tasks
+  - I can complete the tasks and confidently demonstrate them
 
 ### Technical Skills
 - I am confident in:

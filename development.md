@@ -61,10 +61,10 @@
 ### Experience
 - I have at least 3 years of experience
 - I am starting to demonstrate my experience using one or more of the following methods:
-- I can articulate the value I have delivered on shipped projects
-- I have published articles/blog posts
-- I have sample projects or other best practices visible on GitHub
-- I have recordings demonstrating value I have delivered to stakeholders
+  - I can articulate the value I have delivered on shipped projects
+  - I have published articles/blog posts
+  - I have sample projects or other best practices visible on GitHub
+  - I have recordings demonstrating value I have delivered to stakeholders
 
 ### Communication
 - I make it clear when I don't understand a PBI in Sprint Planning

@@ -92,6 +92,8 @@ I am confident working with stakeholders and can deliver value. I always strive 
 
 ## Software Engineer I
 
+I have demonstrated the ability to independently handle client PBIs and make issues visible to the Tech Lead and Product Owner.
+
 ### Experience
 
 - I have at least 1 year of experience in software development
@@ -125,6 +127,8 @@ I am confident working with stakeholders and can deliver value. I always strive 
 
 ## Software Engineer II
 
+I support and mentor my teammates to ensure they are following best practices. I can take the lead on a project for a short period of time.
+
 ### Experience
 
 - I have at least 3 years of experience
@@ -136,8 +140,8 @@ I am confident working with stakeholders and can deliver value. I always strive 
 
 ### Communication
 
-- I make it clear when I don't understand a PBI in Sprint Planning
 - I communicate directly with stakeholders to share good ideas or better practices
+- I make it clear when I don't understand a PBI in Sprint Planning
 
 ### Project leadership & Stakeholder management
 

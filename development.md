@@ -97,7 +97,7 @@ I have demonstrated the ability to independently handle client PBIs and make iss
 ### Experience
 
 - I have at least 1 year of experience in software development
-- I [Continually improve](https://www.ssw.com.au/rules/continual-improvement/) the code I am working with if I find a better approach
+- I [continually improve](https://www.ssw.com.au/rules/continual-improvement/) the code I am working with if I find a better approach
 
 ### Communication
 

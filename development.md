@@ -9,6 +9,16 @@ As a developer, the role you fit into is based on several factors including:
 - Contribution to the overall growth of the development team and success of the business
 - Relationships with internal stakeholders, team members and clients (pretty much having a good relationship with everyone!)
 
+```mermaid
+graph TD;
+    A[Software Developer] --> B[Software Engineer I]
+    B --> C[Software Engineer II]
+    C --> D[Senior Software Engineer I]
+    D --> E[Senior Software Engineer II]
+    E --> F[Solution Architect]
+    E --> G[Delivery Lead]
+```
+
 ## Associate Software Developer
 
 I am new to Software Development and I am building my skills through internal training courses so that I would be able to attempt the employment challenge at the conclusion of the course (and get hired).

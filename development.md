@@ -161,55 +161,87 @@ I support and mentor my teammates to ensure they are following best practices. I
 - I create new rules
 - I take initiative to action important internal PBIs
 
-## Senior Software Engineer
+## Senior Software Engineer I
 
-- I have at least 5 years experience
-- I display initiative and ownership
+I have demonstrated experience confidently leading a team to success on a client project.
 
-- I can lead a project day to day (Tech Lead)
-    - I can make technical decisions 
-    - I can identify and reduce technical debt
-    - I can analyze a PBI's impact on a new/existing solution
-- I am comfortable with running the Scrum ceremonies (i.e. can act as Scrum Master)
-- I am comfortable with mentoring/teaching other developers 
-- I am aware of a projects' schedule/budget constraints
-    - I can identify potential problems in projects (and inform Account Manager)
-    - I am aware of project scheduling/bookings 
-- I actively search for new opportunities with clients
+### Experience
 
-## Principal level
+-   I have at least 5 years of experience
+-   I can demonstrate my substantial experience using one or more of the following methods:
+    -   I can articulate the value I have delivered on shipped projects
+    -   I have published articles/blog posts
+    -   I have sample projects or other best practices visible on GitHub
+    -   I have recordings demonstrating value I have delivered to stakeholders
 
-| Trait | Principal Tech Lead  | Principal Software Engineer | Solution Architect |
-| ------------- | ------------- | ------------- | ------------- |
-| Displays leadership  | ✅ | ✅ | ✅ |
-| Upskill team members  | ✅ | ✅ | ✅ |
-| Is a Servand Leader*  | ✅ | ✅ | ✅ |
-| Firewall for developers on a project  | ✅ | ✅ | ✅ |
-| Know how to say "No" nicely  | ✅ | ✅ | ✅ |
-| Comfortable with all levels of client engagement (Sales, PO, Executive Management...)  | ✅ | ✅ | ✅ |
-| Maximise client ROI | ✅ | ✅ | ✅ |
-| Retains expertise and thought leadership* | ✅ | ✅ | ✅ |
-| Have "people skills" (i.e. be courteous and professional) | ✅ |  |  |
-| Lead multiple projects/teams | ✅ |  |  |
-| Comfortable with Account Management | ✅ |  |  |
-| Comfortable leading Specification Reviews | ✅ |  |  |
-| Comfortable coordinating teams | ✅ |  |  |
-| Recognised as an expert in at least one technical area |  | ✅ |  |
-| Comfortable providing advice in their specialist areas |  | ✅ |  |
-| Architect solutions satisfying client requirements gathered during a Spec Review |  |  | ✅ |
-| Manages non-functional requirements with customers  |  |  | ✅ |
-| Designs solutions with flexibility for the future |  |  | ✅ |
-| Provide strong technical overview for several projects |  |  | ✅ |
+### Communication
 
-- Is a Servant Leader
-    - Provides the support other devs need to do their work
-    - Remove impediments to projects' success
+-   I am comfortable coordinating and leading meetings with Stakeholders and Developers
+-   I can translate how technical ideas deliver business value in a way the client will understand
 
-- Retains expertise and thought leadership through a mix of
-  - attaining certification
-  - presenting at User Groups, conferences and other events
-  - community engagement
-  - being an MVP 
+### Project Leadership & Stakeholder management
+
+-   I am comfortable with running Scrum ceremonies i.e. I can act as Scrum Master
+-   I can [estimate](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) higher-level pieces of work
+-   I can break large PBIs down into smaller PBIs  e.g. Migrating the MVC invoicing page to the latest version of Angular
+-   [Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and help them understand the value and advise on next steps.
+-   I am aware of the project budget, scheduling, and bookings.
+    -   I can identify resourcing problems and inform the Account Manager and Product Owner
+-   I develop [awesome documentation](https://www.ssw.com.au/rules/awesome-documentation/) for all my solutions
+
+### Technical Skills
+
+-   I can lead a project day to day (Tech Lead)
+-   I can help design a new code base, including the patterns, middleware, and structure of the project
+-   I am comfortable taking on a mentoring role with another developer
+
+### Internal Contributions
+
+-   I use my learnings from clients to create new rules
+
+## Senior Software Engineer II
+
+I have demonstrated experience confidently leading multiple teams to success on a client project across different industries and scales.
+
+### Experience
+
+-   I have at least 7 years of experience
+-   I have done work on large-scale enterprise systems
+-   I have a deep understanding of the SDLC
+-   I have a wealth of experience collaborating with stakeholders in different industries
+
+### Communication
+
+-   I can translate client functional and non-functional requirements into a tangible plan of action e.g. a Product Backlog
+-   I am comfortable being involved in conversations with Executive level leadership e.g. Client CEO, COO, CFO etc
+
+### Project  Leadership & Stakeholder management
+
+-   I take the initiative to scope out and develop solutions to meet project requirements and convey the value as well as priority to the Product Owner
+-   I take Ownership
+    -   I demonstrate the ability to plan, track, and deliver tasks - either by my own efforts or by delegating to team members and following up
+    -   Even if I delegated a task, I make sure to [follow up](https://www.ssw.com.au/rules/follow-up-effectively/). Don't fire and forget!
+-   I am proactive and willing to [go the extra mile](https://www.ssw.com.au/rules/go-the-extra-mile/)
+    -   I make sure that my team has everything they need to avoid being blocked
+    -   If someone does get blocked, I step in to help resolve the blocking issue
+    -   I can spot issues in the code or product that may not have been reported yet, and raise the issues with the team and Product Owner
+-   I flag documentation that may be missing with the team and raise PBIs to get it fixed
+
+### Technical Skills
+
+-   I can make technical decisions and can raise with the Solution Architects when the options are difficult to separate  e.g. [Choose the right service](https://ssw.com.au/rules/choose-azure-services/) or [Choosing the right database](https://ssw.com.au/rules/use-the-right-database/)
+-   I can identify and reduce [Technical Debt](https://ssw.com.au/rules/technical-debt/)
+    -   I know when to take a shortcut and how to pay it back later as per our SSW rules
+-   I can analyze a PBI's impact on a new/existing solution
+-   I can lead the design of a new code base, including the patterns, middleware, and structure of the project
+
+## Delivery Lead
+
+TODO
+
+## Solution Architect
+
+TODO
 
 ## Chief Architect
 

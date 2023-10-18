@@ -10,6 +10,22 @@ As a developer, the role you fit into is based on several factors including:
 - Relationships with internal stakeholders, team members and clients (pretty much having a good relationship with everyone!)
 
 ```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#CC4141',
+      'primaryTextColor': '#fff',
+      'lineColor': '#CC4141',
+      'secondaryColor': '#AAAAAA',
+      'tertiaryColor': '#797979',
+      'noteBkgColor': '#333333',
+      'noteTextColor': '#fff',
+      'sequenceNumberColor': '#333333'
+    }
+  }
+}%%
+
 graph TD;
     A[Software Developer] --> B[Software Engineer I]
     B --> C[Software Engineer II]

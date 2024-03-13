@@ -72,6 +72,7 @@ I am new to Software Development and I am building my skills through internal tr
 
 - Engage with the wider Team e.g. at lunch, playing games etc
 
+
 ## ⭐ Software Developer
 
 I am confident working with stakeholders and can deliver value. I always strive to learn and improve in all aspects of my role.
@@ -116,6 +117,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 - I am available to help with reviewing new rules, user group presentations, and other communications
 - I attend community events
 
+
 ## ⭐ Software Engineer I
 
 I have demonstrated the ability to independently handle client PBIs and make issues visible to the Tech Lead and Product Owner.
@@ -150,6 +152,7 @@ I have demonstrated the ability to independently handle client PBIs and make iss
 - I send recommendations for updating SSW Rules
 - I propose new rule content for SSW Rules
 - I assist with SSW events
+
 
 ## ⭐ Software Engineer II
 
@@ -187,7 +190,8 @@ I support and mentor my teammates to ensure they are following best practices. I
 - I create new rules
 - I take initiative to action important internal PBIs
 
-## Senior Software Engineer I
+
+## ⭐ Senior Software Engineer I
 
 I have demonstrated experience confidently leading a team to success on a client project.
 
@@ -225,6 +229,7 @@ I have demonstrated experience confidently leading a team to success on a client
 
 - I use my learnings from clients to create new rules
 
+
 ## ⭐ Senior Software Engineer II
 
 I have demonstrated experience confidently leading multiple teams to success on a client project across different industries and scales.
@@ -261,13 +266,16 @@ I have demonstrated experience confidently leading multiple teams to success on 
 - I can analyze a PBI's impact on a new/existing solution
 - I can lead the design of a new code base, including the patterns, middleware, and structure of the project
 
+
 ## ⭐ Delivery Lead
 
 TODO
 
+
 ## ⭐ Solution Architect
 
 TODO
+
 
 ## ⭐ Chief Architect
 

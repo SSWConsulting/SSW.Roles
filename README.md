@@ -3,6 +3,7 @@
 This repo aims to describe the defining characteristics of people's roles at [SSW](https://www.ssw.com.au).
 
 - [Development](development.md)
+- [Design](design.md)
 
 ## Contributions
 

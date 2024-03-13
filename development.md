@@ -35,7 +35,7 @@ graph TD;
     E --> G[Delivery Lead]
 ```
 
-## Associate Software Developer
+## ⭐ Associate Software Developer
 
 I am new to Software Development and I am building my skills through internal training courses so that I would be able to attempt the employment challenge at the conclusion of the course (and get hired).
 
@@ -72,7 +72,7 @@ I am new to Software Development and I am building my skills through internal tr
 
 - Engage with the wider Team e.g. at lunch, playing games etc
 
-## Software Developer
+## ⭐ Software Developer
 
 I am confident working with stakeholders and can deliver value. I always strive to learn and improve in all aspects of my role.
 
@@ -116,7 +116,7 @@ I am confident working with stakeholders and can deliver value. I always strive 
 - I am available to help with reviewing new rules, user group presentations, and other communications
 - I attend community events
 
-## Software Engineer I
+## ⭐ Software Engineer I
 
 I have demonstrated the ability to independently handle client PBIs and make issues visible to the Tech Lead and Product Owner.
 
@@ -151,7 +151,7 @@ I have demonstrated the ability to independently handle client PBIs and make iss
 - I propose new rule content for SSW Rules
 - I assist with SSW events
 
-## Software Engineer II
+## ⭐ Software Engineer II
 
 I support and mentor my teammates to ensure they are following best practices. I can take the lead on a project for a short period of time.
 
@@ -225,7 +225,7 @@ I have demonstrated experience confidently leading a team to success on a client
 
 - I use my learnings from clients to create new rules
 
-## Senior Software Engineer II
+## ⭐ Senior Software Engineer II
 
 I have demonstrated experience confidently leading multiple teams to success on a client project across different industries and scales.
 
@@ -261,15 +261,15 @@ I have demonstrated experience confidently leading multiple teams to success on 
 - I can analyze a PBI's impact on a new/existing solution
 - I can lead the design of a new code base, including the patterns, middleware, and structure of the project
 
-## Delivery Lead
+## ⭐ Delivery Lead
 
 TODO
 
-## Solution Architect
+## ⭐ Solution Architect
 
 TODO
 
-## Chief Architect
+## ⭐ Chief Architect
 
 - Respected leader both inside & outside of the company
 - Builds communities and grows culture within the business

@@ -214,7 +214,8 @@ I have demonstrated experience confidently leading a team to success on a client
 - I am comfortable with running Scrum ceremonies i.e. I can act as Scrum Master
 - I can [estimate](https://www.ssw.com.au/rules/estimating-do-you-know-how-to-size-user-stories-effectively/) higher-level pieces of work
 - I can break large PBIs down into smaller PBIs  e.g. Migrating the MVC invoicing page to the latest version of Angular
-- [Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and help them understand the value and advise on next steps.
+- [Upselling](https://ssw.com.au/rules/upsell/) - I can identify new opportunities with clients and help them understand the value and advise on next steps
+- I practice [Client Love](https://www.ssw.com.au/rules/weekly-client-love/) regularly and keep in touch with professional (and personal) connections - I know I may get work (or help) from them someday
 - I am aware of the project budget, scheduling, and bookings.
   - I can identify resourcing problems and inform the Account Manager and Product Owner
 - I develop [awesome documentation](https://www.ssw.com.au/rules/awesome-documentation/) for all my solutions
